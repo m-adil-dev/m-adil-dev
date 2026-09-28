@@ -5,10 +5,16 @@
 </p>
 
 <p align="center">
+  <a href="https://madildev.vercel.app"><img src="https://img.shields.io/badge/🌐_VISIT_PORTFOLIO-madildev.vercel.app-0EA5E9?style=for-the-badge" alt="Portfolio" /></a>
+  <a href="https://madildev.vercel.app"><img src="https://img.shields.io/badge/🚀_VIEW_LIVE_PROJECTS-000000?style=for-the-badge" alt="View Live Projects" /></a>
+  <a href="https://madildev.vercel.app"><img src="https://img.shields.io/badge/📲_DOWNLOAD_APPS-22C55E?style=for-the-badge" alt="Download Apps" /></a>
+</p>
+
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=m-adil-dev&label=Profile%20views&color=0e75b6&style=flat" alt="m-adil-dev" />
   <a href="https://www.linkedin.com/in/adil3383"><img src="https://img.shields.io/badge/LinkedIn-adil3383-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:muhammadadil3383@gmail.com"><img src="https://img.shields.io/badge/Email-muhammadadil3383%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://madildev.vercel.app"><img src="https://img.shields.io/badge/Portfolio-madildev.vercel.app-000000?style=flat&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://github.com/m-adil-dev"><img src="https://img.shields.io/badge/GitHub-m--adil--dev-181717?style=flat&logo=github&logoColor=white" alt="GitHub" /></a>
 </p>
 
 ---
@@ -167,24 +173,22 @@ A multi-threaded Python HTTP/HTTPS proxy gateway with authenticated sticky sessi
 ### 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=m-adil-dev&show_icons=true&theme=tokyonight&hide_border=true" alt="m-adil-dev stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=m-adil-dev&layout=compact&theme=tokyonight&hide_border=true" alt="m-adil-dev top langs" height="165" />
+  <img src="https://github-stats-extended.vercel.app/api?username=m-adil-dev&show_icons=true&theme=tokyonight&hide_border=true" alt="m-adil-dev stats" height="165" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=m-adil-dev&layout=compact&theme=tokyonight&hide_border=true" alt="m-adil-dev top langs" height="165" />
 </p>
 
 <p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=m-adil-dev&theme=tokyonight&hide_border=true" alt="m-adil-dev streak" />
-</p>
-
-<p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=m-adil-dev&theme=tokyonight&no-frame=true&row=1" alt="m-adil-dev trophies" /></a>
+  <img src="https://streak-stats.demolab.com/?user=m-adil-dev&theme=tokyonight&hide_border=true" alt="m-adil-dev streak" />
 </p>
 
 ---
 
 <h3 align="left">Let's Connect</h3>
+
 <p align="left">
-<a href="https://www.linkedin.com/in/adil3383" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adil3383" height="30" width="40" /></a>
-<a href="mailto:muhammadadil3383@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="email" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/adil3383"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:muhammadadil3383@gmail.com"><img src="https://img.shields.io/badge/Email-Say_Hi-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://madildev.vercel.app"><img src="https://img.shields.io/badge/Portfolio-Explore-0EA5E9?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
 </p>
 
-<p align="center"><i>Thanks for stopping by — feel free to explore my repos or reach out about a project! 🚀</i></p>
+<p align="center"><i>Thanks for stopping by — explore my repos, check out live projects on my portfolio, or reach out about a project! 🚀</i></p>
